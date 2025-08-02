@@ -28,29 +28,29 @@ Scikit-learn (LogisticRegression, metrics, train_test_split)
 
 ## 🧪 Project Workflow
 
-1. Data Cleaning
+# 1. Data Cleaning
 
 Removed 1,081 duplicate rows to improve data quality
 
 Dropped Time column as it had no predictive significance
 
-2. Feature Scaling
+# 2. Feature Scaling
 
 Applied StandardScaler to normalize the features
 
-3. Model Building
+# 3. Model Building
 
 Used Logistic Regression from Scikit-learn
 
 Trained on the original imbalanced dataset
 
-4. Evaluation Metrics
+# 4. Evaluation Metrics
 
 Confusion Matrix
 
 Classification Report (Precision, Recall, F1-Score)
 
-5. Final Results (Test Set)
+# 5. Final Results (Test Set)
 
 Metric
 
