@@ -1,9 +1,10 @@
 # Credit-Card-Fraud-Detection-model-Machine-Learning-project
-An end-to-end machine learning project to detect fraudulent credit card transactions using a simple yet effective Logistic Regression model.
+
+ An end-to-end machine learning project to detect fraudulent credit card transactions using a simple yet effective Logistic Regression model.
 
 This project demonstrates the steps involved in preprocessing, training, and evaluating a classification model on a real-world, imbalanced dataset. It focuses on clear explanations and interpretable results — ideal for data science beginners and portfolio building.
 
-📂 Dataset
+## 📂 Dataset
 
 Source: Kaggle - Credit Card Fraud Detection
 
@@ -15,7 +16,7 @@ Classes:
 
 1 → Fraudulent transaction (minority class)
 
-🧰 Tools and Libraries
+## 🧰 Tools and Libraries
 
 Python
 
@@ -25,7 +26,7 @@ Matplotlib & Seaborn
 
 Scikit-learn (LogisticRegression, metrics, train_test_split)
 
-🧪 Project Workflow
+## 🧪 Project Workflow
 
 1. Data Cleaning
 
@@ -81,11 +82,10 @@ Accuracy
 
 📌 Conclusion: The model performs well even without resampling, achieving high recall on the minority class.
 
-📈 Confusion Matrix
-
+## 📈 Confusion Matrix
 A heatmap was generated to visualize how well the model differentiates between fraud and legitimate transactions.
 
-📦 Future Improvements
+## 📦 Future Improvements
 
 Apply SMOTE or undersampling to handle class imbalance
 
@@ -95,6 +95,6 @@ Use GridSearchCV for hyperparameter tuning
 
 Deploy as a web app using Streamlit
 
-🙋‍♀️ About Me
+## 🙋‍♀️ About Me
 
 I'm a data science enthusiast passionate about solving real-world problems through data. Feel free to connect with me on LinkedIn!
